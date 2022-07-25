@@ -1,0 +1,15 @@
+Objective 
+In this challenge, we practice calculating probability.
+Task 
+BagX contains 5 white balls and 4 black balls. 
+BagY contains 7 white balls and 6 black balls. 
+You draw 1 ball from BagX and, without observing its color, put it into BagY. Now, if a ball is drawn from bag X , find the probability that it is black.
+
+P(white from X) = 5/9
+P(black from X) = 4/9
+P(black from Y given white from X) = 6/14
+P(black from Y given black from X) = 7/14
+(5/9)*(6/14) = 30/126
+(4/9)*(7/14) = 28/126
+Add them: 30/126 + 28/126 = 58/126
+Simplified: 29/63
