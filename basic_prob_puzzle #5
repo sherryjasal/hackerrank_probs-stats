@@ -4,3 +4,5 @@ Task
 There are 10 people about to sit down around a round table. Find the probability that 2 particular people will sit next to one another.
 
 Since for any seat there are two adjacent seats to particular seat so probability will be 2/9
+ 
+Link: https://www.hackerrank.com/challenges/basic-probability-puzzles-5/problem?isFullScreen=true
