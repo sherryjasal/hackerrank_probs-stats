@@ -1,0 +1,23 @@
+Objective 
+In this challenge, we practice calculating probability.
+Task 
+Bag1 contains 4 red balls and 5 black balls. 
+Bag2 contains 3 red balls and 7 black balls. 
+1 ball is drawn from the Bag1, and 2 balls are drawn from . Find the probability that 2 balls are black and 1 ball is red.
+              Red          Black
+Bag 1         4 = 4/9      5 = 5/9
+Bag 2         3 = 3/10     7 = 7/10
+
+So the combinations will be (RBB) (BRB) (BBR)
+So one ball from Bag1 would be either red or black would be B = 5/9 or R = 4/9
+And remaining 2 balls from Bag2 would be either 
+BB = 7/10*6/9 ,
+BR = 7/10*3/9
+RB = 3/10*7/9
+
+So the combination of 3 balls will be:
+BBR = 5/9 * 7/10 * 6/9 = 35/270
+BRB = 5/9 * 3/10 * 7/9 = 35/270
+RBB = 4/9 * 7/10 * 6/9 = 56/270
+
+Total = 35/270 + 35/270 + 56/270 = 7/15
