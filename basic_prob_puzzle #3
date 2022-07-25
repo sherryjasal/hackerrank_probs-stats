@@ -1,0 +1,22 @@
+Objective 
+In this challenge, we practice calculating probability.
+Task 
+There are 3 urns: X , Y and Z.
+Urn X contains 4 red balls and 3 black balls.
+Urn Y contains 5 red balls and 4 black balls.
+Urn Z contains 4 red balls and 4 black balls.
+One ball is drawn from each urn. What is the probability that the  balls drawn consist of 2 red balls and 1 black ball?
+
+So total combinations of 3 Urns : 8
+(RRR) (RRB) (RBR) (BRR) (BBR) (BRB) (RBB) (BBB)
+
+So the combination for 2 red balls and 1 black ball will be:
+(RRB) - 4/7*5/9*4/8 = 10/63
+(RBR) - 4/7*4/9*4/8 = 8/63
+(BRR) - 3/7*5/9*4/8 = 5/42
+
+Total = 10/63+8/63+5/42 = 17/42
+
+## link: https://www.hackerrank.com/challenges/basic-probability-puzzles-3/problem?isFullScreen=true
+
+
