@@ -1,0 +1,10 @@
+Objective 
+In this challenge, we practice calculating probability.
+Task 
+For a single toss of 2 fair (evenly-weighted) dice, find the probability that the values rolled by each die will be different and their sum is 6.
+
+Total events = 36
+Events with different values = 4
+So probability will be = 4/36 = 1/9
+
+Link: https://www.hackerrank.com/challenges/basic-probability-puzzles-2/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
