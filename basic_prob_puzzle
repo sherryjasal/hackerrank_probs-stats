@@ -1,0 +1,11 @@
+Objective 
+In this challenge, we practice calculating probability.
+Task 
+In a single toss of  fair (evenly-weighted) 6-sided dice, find the probability of that their sum will be at most .
+
+Total Events: 36
+At most sum 9 meaning evertything less than equal to sum 9
+So total events are 36-6 = 30
+prob = 30/36 = 5/6
+
+Link: https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem?isFullScreen=true
