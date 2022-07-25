@@ -1,0 +1,18 @@
+Objective 
+In this challenge, we practice calculating probability.
+Task 
+A firm produces steel pipes in three plants.
+Plant A produces 500 units per day and has a fraction defective output of 0.005 
+Plant B produces 1000 units per day and has a fraction defective output of 0.008 
+Plant C produces 2000 units per day and has a fraction defective output of 0.010
+At random, a pipe is selected from the day’s total production and it is found to be defective. What is the probability that it came from plant A ?
+
+So probability of getting 
+Defective output from Plant A = 0.005*500 = 2.5
+Defective output from Plant B = 0.008*1000 = 8
+Defective output from Plant C = 0.010*2000 = 10
+
+So total defective outputs = 30.5
+The probability of getting defective output from Plant A = 2.5/30.5 = 5/61
+
+Link: https://www.hackerrank.com/challenges/basic-probability-puzzles-7/problem
