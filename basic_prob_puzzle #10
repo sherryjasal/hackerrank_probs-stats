@@ -1,0 +1,13 @@
+Bill and Nina appear for an interview for two vacancies. 
+The probability of Bill’s selection is 1/3 and that of Nina’s selection is 1/5. Find the probability that only one of them will be selected.
+
+P(Bill's selection) = 1/3
+P(Bill's not selection) = 2/3
+P(Nina's selection) = 1/5
+P(Nina's not selection) = 4/5
+
+P(either of them will be selected) = P(Bill's selection)*P(Nina's not selection) + P(Bill's not selection)*P(Nina's selection)
+                                   = (1/3)*(4/5) + (2/3)*(1/5)
+                                   = 2/5
+                       
+Link: https://www.hackerrank.com/challenges/basic-probability-puzzles-10/problem?isFullScreen=true
