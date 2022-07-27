@@ -1,0 +1,13 @@
+Objective 
+In this challenge, we practice calculating the slope of regression lines.
+Task 
+There are 2 series of data involving index numbers: P for price index and S for the commodity stock. 
+The mean and standard deviation of P are 100 and 8, respectively.
+The mean and standard deviation of S are 103 and 4, respectively. 
+The  correlation coefficient between the two series is 0.4.
+With this data, obtain the slope of the regression line of P on S, correct to a scale of 2 decimal places.
+
+Y = a+bX
+slope of regression line is which is b = r * (s.d. of x)/(s.d. of y) = 
+                                     b = root(0.4)*(8/4)
+                                     b = 1.2648 which is the slope of regression line
