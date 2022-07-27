@@ -1,0 +1,17 @@
+Objective 
+In this challenge, we practice calculating the correlation between two elements.
+Task 
+For a particular scatter plot, the line of regression of  on  is:
+3x+4y+8 = 0
+
+And the line of regression of  on  is:
+4x+3y+7 = 0
+
+Find the Pearson Product moment coefficient, , correct to a scale of decimal places.
+
+
+y = -3/4x-8/4
+x = -3/4y-7/4
+
+r^2 = bxy * byx = (-3/4)*(-3/4) = 9/16
+Pearson Correlation (r) = -3/4 = -0.75 which means its negatively correlated
